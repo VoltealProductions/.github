@@ -1,5 +1,5 @@
 
-<img src="./img/Logo.png" align="center">
+<img src="./img/logo.png" align="center">
 
 <h2 align="center">
 Welcome to the<br />
